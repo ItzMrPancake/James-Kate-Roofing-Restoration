@@ -2,5 +2,7 @@
   "name": "James Kate Roofing & Restoration | Premier Dallas-Fort Worth Roofers",
   "description": "Dallas-Fort Worth's premier GAF Master Elite® roofing contractor since 2008. Residential & commercial roof replacements, emergency hail & storm damage restoration, repairs, and free 21-point drone inspections.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
